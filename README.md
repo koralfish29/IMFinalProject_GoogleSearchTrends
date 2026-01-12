@@ -106,9 +106,3 @@ Built interactive dashboards (Streamlit) using Gold layer tables:
 
 These dashboards translate raw data into executive-ready insights.
 
----
-
-## Repository Contents
-- Ipynb of python/SQL Code
-- PDF of presentation
-
